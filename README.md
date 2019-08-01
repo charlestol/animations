@@ -1,1 +1,1 @@
-Playing with animations
+My animations playground
